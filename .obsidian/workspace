@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "7910805adbe3520f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6198627afe02753",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Bokeh.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43e8b42b29f04726",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a08db4c7bc47f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "661ac27f0ca22c54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fcaf14bd60ed259b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344
+  },
+  "right": {
+    "id": "b71911283e13eb25",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ed1d230f7eaa62e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ea7a1fc32561606",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Bokeh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79856a246074536a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Bokeh.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6198627afe02753",
+  "lastOpenFiles": [
+    "Tiny Details/Bokeh.md",
+    "Tiny Details/Bokeh Images/Pasted image 20210607140308.png",
+    "Tiny Details/Bokeh Images/Pasted image 20210607135724.png",
+    "linking_selections.png",
+    "Pasted image 20210607133142.png",
+    "Bokeh.TabbedLayouts.png",
+    "Pasted image 20210607132959.png",
+    "Pasted image 20210607132852.png",
+    "Tiny Details/Pandas 🐼.md",
+    "Untitled.md"
+  ]
+}
