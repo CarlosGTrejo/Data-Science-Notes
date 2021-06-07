@@ -256,16 +256,3 @@ p = figure(tools=[hover, 'pan', 'wheel_zoom'])
 ![[hover_tooltips.png]]
 ****
 
-```
-1st cd\_esp\_data  
-
-2nd sing\_espl
-
-3rd cd_esp_scripts
-
-4rd launch jupyter
-
-to access data do cd_esp_data
-O is ring
-G is garmin watch
-```
